@@ -5,7 +5,7 @@
 # ============================================
 set -euo pipefail
 
-REPO_URL="https://github.com/Kauedz/paperclip.git"
+REPO_URL="https://github.com/Kauedz/althius-alg.git"
 BRANCH="main"
 INSTALL_DIR="/opt/althius"
 ENV_FILE="$INSTALL_DIR/docker/.env"
