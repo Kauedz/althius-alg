@@ -1,0 +1,3 @@
+{$ALTHIUS_DOMAIN:localhost} {
+	reverse_proxy server:3100
+}
